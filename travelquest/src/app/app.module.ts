@@ -40,12 +40,12 @@ import { MatDialogModule } from '@angular/material/dialog';
   providers: [
     provideFirebaseApp(() =>
       initializeApp({
-        projectId: 'travelquest-dd8d8',
-        appId: '1:674108070126:web:e428b756092883536d7bff',
-        storageBucket: 'travelquest-dd8d8.firebasestorage.app',
-        apiKey: 'AIzaSyBj7QZC69zrldTNhx65gyqxXlZqc0EgyzU',
-        authDomain: 'travelquest-dd8d8.firebaseapp.com',
-        messagingSenderId: '674108070126',
+        projectId: 'tq-eksamen',
+        appId: '1:673718453438:web:471dfd0c7fcda593fd0aef',
+        storageBucket: 'tq-eksamen.firebasestorage.app',
+        apiKey: 'AIzaSyDp8QHJQtXjheYAwvZjptSqH8T_9c6yaJc',
+        authDomain: 'tq-eksamen.firebaseapp.com',
+        messagingSenderId: '673718453438',
       })
     ),
     provideAuth(() => getAuth()),

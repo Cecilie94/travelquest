@@ -7,12 +7,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBj7QZC69zrldTNhx65gyqxXlZqc0EgyzU',
-  authDomain: 'travelquest-dd8d8.firebaseapp.com',
-  projectId: 'travelquest-dd8d8',
-  storageBucket: 'travelquest-dd8d8.firebasestorage.app',
-  messagingSenderId: '674108070126',
-  appId: '1:674108070126:web:e428b756092883536d7bff',
+  apiKey: 'AIzaSyDp8QHJQtXjheYAwvZjptSqH8T_9c6yaJc',
+  authDomain: 'tq-eksamen.firebaseapp.com',
+  projectId: 'tq-eksamen',
+  storageBucket: 'tq-eksamen.firebasestorage.app',
+  messagingSenderId: '673718453438',
+  appId: '1:673718453438:web:471dfd0c7fcda593fd0aef',
 };
 
 // Initialize Firebase
